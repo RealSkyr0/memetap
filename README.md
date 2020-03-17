@@ -8,3 +8,6 @@ How to use memetap:
 4. Once you've been verified open the loader and click inject.
 
 Discord: https://discord.gg/vHhbhD2
+
+Loader screenshot:
+![memetap loader](https://imgur.com/a/DOqOuii.png)
