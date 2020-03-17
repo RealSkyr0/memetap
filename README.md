@@ -10,4 +10,5 @@ How to use memetap:
 Discord: https://discord.gg/vHhbhD2
 
 Loader screenshot:
-![memetap loader](https://imgur.com/a/DOqOuii.png)
+
+![memetap loader](https://i.imgur.com/0q516Io.png)
