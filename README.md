@@ -11,4 +11,4 @@ Discord: https://discord.gg/vHhbhD2
 
 Loader screenshot:
 
-![memetap loader](https://i.imgur.com/0q516Io.png)
+![memetap loader](http://skyr0.cc/memetap-loader-data/images/memetaploader.PNG)
