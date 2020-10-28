@@ -4,10 +4,8 @@ The official loader for memetap
 How to use memetap:
 1. Download the loader (memetap loader, not the quick loader. Quick loader is for advanced users),
 2. Copy the HWID,
-3. Send the HWID in #verify-me channel on our discord server,
+3. Create an issue here on github and include your HWID,
 4. Once you've been verified open the loader and click inject.
-
-Discord: https://discord.gg/vHhbhD2
 
 Loader screenshot:
 
